@@ -1,0 +1,32 @@
+#Especificaciones del proyecto
+favicon--> html(<link rel="shortcut icon" href="img/favicon.ico">)
+
+marcador--> html(<span class="label warning">*</span>)
+css(
+.label.warning {
+    background: #8E2121;
+    color: #fff;
+}
+.label {
+    padding: 0.33333rem 0.5rem;
+    font-size: 0.825rem;
+}
+.label {
+    display: inline-block;
+    padding: 0.33333rem 0.5rem;
+    font-size: 0.8rem;
+    line-height: 1;
+    white-space: nowrap;
+    cursor: default;
+    border-radius: 0;
+    background: #2199e8;
+    color: #fefefe;
+}
+*, ::before, ::after {
+    box-sizing: inherit;
+}html, body {
+    font-family: 'Roboto_condensed', Arial, Helvetica, sans-serif;
+    -webkit-text-size-adjust: 100%;
+    font-size: 1rem;
+}
+)
