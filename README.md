@@ -8,3 +8,4 @@ Camilo Alejandro Silva Gomez https://github.com/Allonyx/Allonyx.git
 allonyx.ngs@gmail.com - casilva29@misena.edu.co 3137392733
 
 Luis Carlos Guerrero Castro
+lcguerrero05@misena.edu.co 3012585955
